@@ -2,6 +2,16 @@
 
 A new Flutter project.
 
+#How to clone repo
+- git clone https://github.com/santos-naudiyal/camapp.git
+- run pub get
+
+  # How to use app
+  - click on camera icon to start camera
+  - capture the image and click on check icon to save image in list
+  - click on image to preview the image in full screen
+  - 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
